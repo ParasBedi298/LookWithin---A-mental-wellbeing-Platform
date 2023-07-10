@@ -8,3 +8,9 @@ To Run the Project:
 - Open the project directory with terminal and run npm i to install the needed dependencies.
 - Run the command node app.js
 (The website will now be running on port 3000).
+
+Features:
+- Sign in with your Google Account
+- Access various mental wellbeing resources provided on the Resources page
+- Register as a psychiatrist and offer consultation slots
+- Chat in Real time with different users
