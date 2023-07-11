@@ -1,4 +1,4 @@
-Look Within - A WebApp Based Holistic Platform for Your Mental WellBeing!
+Look Within - A WebApp Based Holistic Platform for Your Mental WellBeing! This WebApp was built in a team of two, under FrostHack 2023
 
 Requirements:
 - node.js
