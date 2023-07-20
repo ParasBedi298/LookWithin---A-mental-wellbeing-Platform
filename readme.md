@@ -2,6 +2,7 @@ Look Within - A WebApp Based Holistic Platform for Your Mental WellBeing! This W
 
 Requirements:
 - node.js
+- MongoDB
 
 To Run the Project:
 - Unzip the node_modules directory.
