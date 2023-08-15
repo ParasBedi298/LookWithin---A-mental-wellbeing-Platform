@@ -14,5 +14,5 @@ To Run the Project:
 Features:
 - Sign in with your Google Account
 - Access various mental wellbeing resources provided on the Resources page
-- Register as a psychiatrist and offer consultation slots
 - Chat in Real time with different users
+- As a psychiatrist, offer consultation slots after psychiatrist-id authentication.
